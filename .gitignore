@@ -36,3 +36,6 @@ yarn-error.*
 
 # assets
 assets/
+
+# vscode
+.vscode/
